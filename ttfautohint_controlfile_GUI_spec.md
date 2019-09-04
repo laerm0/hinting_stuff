@@ -1,6 +1,6 @@
 # Spec for ttfautohint control file GUI
 
-Proposed workflow:
+### Proposed workflow:
 
 1. Open a font in a Windows testing environment
 2. Find a glyph where you need to make tweaks
@@ -10,7 +10,7 @@ Proposed workflow:
 6. Hit save in the script window which will create a control file for ttfautohint
 7. Use that file in ttfautohint
 
-## What I think needs to happen in the script/plugin
+### What I think needs to happen in the script/plugin
 
 1. `#` comment glyph name
 1. Get glyph ID from open glyph
