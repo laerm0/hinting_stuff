@@ -12,7 +12,7 @@ Proposed workflow:
 
 ## What I think needs to happen in the script/plugin
 
-1. # comment glyph name
+1. `#` comment glyph name
 1. Get glyph ID from open glyph
 2. User selects point size to alter
 2. User selects glyph node to alter
